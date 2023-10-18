@@ -1,0 +1,462 @@
+.hoemimage {
+    margin-top: -100px;
+    width: 100%;
+    position: absolute;
+}
+
+.form {
+    background-color: white;
+    position: relative;
+    width: 550px;
+    height: 500px;
+    margin-left: 70px;
+    margin-top: 100px;
+}
+
+.drivetext {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.buttons2 {
+    width: 150px;
+    height: 45px;
+    font-weight: 500;
+    border-radius: 10px;
+    margin-left: 30px;
+    background-color: black;
+    color: white;
+    letter-spacing: 0.2px;
+}
+
+.link22 {
+    text-decoration: none;
+    color: black;
+    margin-left: 30px;
+}
+
+.underline {
+    position: absolute;
+    background-color: black;
+    opacity: 1;
+    border-width: 4px;
+    width: 70px;
+    margin-left: -21px;
+    margin-top: 35px;
+}
+.underline1 {
+
+    position: absolute;
+    background-color: black;
+    opacity: 1;
+    border-width: 4px;
+    width: 70px;
+    margin-left: -10px;
+    margin-top: 15px;
+
+}
+
+.underline2 {
+
+    position: absolute;
+    background-color: black;
+    opacity: 1;
+    border-width: 4px;
+    width: 70px;
+    margin-left: -1px;
+    margin-top: 15px;
+
+}
+
+
+.options {
+    padding: 50px;
+    margin-left: 20px;
+}
+
+.fcontent {
+    font-size: 13px;
+    margin-top: 10px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.heading {
+    font-weight: bolder;
+    margin-left: 40px;
+    font-size: 50px;
+    letter-spacing: 1px;
+}
+
+.buttons {
+    width: 150px;
+    height: 45px;
+    font-weight: 500;
+    border-radius: 10px;
+    margin-left: 40px;
+    margin-top: 40px;
+    background-color: black;
+    color: white;
+    letter-spacing: 0.2px;
+}
+
+.buttons:hover {
+    filter: brightness(70%);
+}
+
+.buttons1 {
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 30px;
+    border: none;
+    font-weight: 500;
+}
+
+.buttons1:hover {
+    filter: brightness(95%);
+}
+
+.inputbox {
+    width: 460px;
+    height: 50px;
+    border: none;
+    margin-left: 40px;
+    margin-top: 10px;
+    background-color: rgba(238, 237, 236, 0.776);
+}
+
+.getstarted {
+    /* background-color: beige; */
+    width: 100%;
+    height: 200px;
+    margin-left: 50px;
+    padding: 0;
+    /* margin-right: 0px; */
+    /* margin: 0; */
+    margin-top: 20px;
+    margin-top: 50px;
+    /* background: url('https://th.bing.com/th/id/OIP.RuCF1K1CH3kVBkmq8xmkKgHaEo?pid=ImgDet&rs=1'); */
+}
+
+.head12 {
+    letter-spacing: -1px;
+}
+
+.text {
+    font-weight: 100;
+    font-size: 13px;
+    margin-top: 20px;
+
+}
+
+.button2 {
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 45px;
+    margin-top: 20px;
+}
+
+.imges {
+    margin-left: 50px;
+    margin-top: 30px;
+    width: 550px;
+}
+
+.focused {
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+.heading4 {
+    margin-top: 30px;
+}
+
+.text1 {
+    font-weight: 100;
+    font-size: 13px;
+    margin-top: 20px;
+}
+
+.text2 {
+    font-weight: 100;
+    font-size: 13px;
+    margin-top: 20px;
+    margin-left: 45px;
+}
+
+.hhead {
+    margin-left: 45px;
+    margin-top: 30px;
+
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+
+}
+
+.links {
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+#about {
+    margin-left: 40px;
+    margin-top: 110px;
+}
+
+.text3 {
+
+    font-weight: 100;
+    font-size: 13px;
+    margin-top: 20px;
+}
+
+.focus2 {
+    margin-left: -100px;
+}
+
+#uberautos {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+#uberautos1 {
+    margin-left: 100px;
+    margin-top: 50px;
+
+}
+
+#uberautos3 {
+    margin-left: 150px;
+    margin-top: 50px;
+
+}
+
+.auberhead {
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.scan {
+    margin-left: 50px;
+    background-color: white;
+    padding: 50px;
+}
+
+.cardtype {
+    width: 100%;
+    height: 450px;
+    margin-top: 100px;
+    background-color: rgb(236, 234, 234);
+    /* position: absolute; */
+}
+
+.uberapp {
+    font-size: 24px;
+    font-weight: bolder;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.download {
+    margin-left: 10px;
+    font-size: 15px;
+
+}
+
+.cardcollecton {
+    margin-top: 40px;
+    display: flex;
+}
+
+.lastdiv {
+    margin-top: 100px;
+    margin-left: 50px;
+
+}
+
+#ride {
+    margin-left: 60px;
+}
+
+.diveride {
+    font-weight: bold;
+}
+
+.diveride1 {
+    font-weight: bold;
+}
+
+.focused44 {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+
+@media (max-width:1000px) {
+    .hoemimage {
+        position: absolute;
+        margin-top: 0px;
+        width: 0%;
+
+    }
+
+    .form {
+        position: relative;
+        width: 100%;
+        height: 500px;
+        overflow-y: hidden;
+        margin-left: 10px;
+        margin-top: 50px;
+    }
+
+    .heading {
+        font-weight: bolder;
+        margin-left: 30px;
+        font-size: 30px;
+        letter-spacing: 1px;
+    }
+
+    .inputbox {
+        width: 480px;
+        height: 50px;
+        border: none;
+        margin-left: 30px;
+        margin-top: 10px;
+    }
+
+
+
+    .buttons1 {
+        padding: 5px;
+        border-radius: 10px;
+        margin-left: 20px;
+        border: none;
+        font-weight: 500;
+    }
+
+    .buttons {
+        width: 150px;
+        height: 35px;
+        font-weight: 500;
+        border-radius: 10px;
+        margin-left: 80px;
+        margin-top: 40px;
+        background-color: black;
+        color: white;
+        letter-spacing: 0.2px;
+    }
+
+    .getstarted {
+        width: 100%;
+        margin-top: 50px;
+        margin-left: 10px;
+    }
+
+    .focused22 {
+        margin-left: -45px;
+
+    }
+
+    #about {
+        margin-left: 10px;
+        margin-top: 50px;
+    }
+
+    .focused {
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+
+    .focused44 {
+        margin-top: 30px;
+        margin-left: 100px;
+    }
+
+    .text3 {
+
+        font-weight: 100;
+        font-size: 10px;
+        margin-top: 10px;
+    }
+
+    .auberhead {
+        font-weight: bolder;
+        font-size: 20px;
+    }
+
+    .uber44 {
+        margin-left: -100px;
+    }
+
+    #uberautos {
+        margin-left: 100px;
+        margin-top: 30px;
+    }
+
+    #uberautos1 {
+        margin-left: 0px;
+        margin-top: 30px;
+
+    }
+
+    #uberautos3 {
+        margin-left: 30px;
+        margin-top: 30px;
+
+    }
+
+    .scan {
+        margin-left: 10px;
+        background-color: white;
+        padding: 10px;
+    }
+
+    .cardtype {
+        width: 100%;
+        height: 500px;
+        overflow-y: hidden;
+        margin-top: 100px;
+        background-color: rgb(236, 234, 234);
+        position: absolute;
+    }
+
+    .lastdiv {
+        margin-top: 600px;
+        margin-left: 10px;
+
+    }
+
+    .diveride {
+        margin-top: 20px;
+        margin-left: 20px;
+
+    }
+
+    .diveride1 {
+        margin-left: 50px;
+        margin-top: 30px;
+    }
+
+    #ride {
+        margin-left: -520px;
+        margin-top: 50px;
+    }
+
+    .hoemimage {
+        position: relative;
+        margin-top: -70px;
+
+    }
+
+
+    .cardcollecton {
+        margin-top: 20px;
+        display: block;
+    }
+
+}
